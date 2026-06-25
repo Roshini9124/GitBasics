@@ -7,4 +7,8 @@ git tag verisonname
 for past commit:
 git tag versionname commitid
 annotated->stores tag with metadata
+for current commit:
+git tag -a versionname 
 git tag-->list all tag
+git switch -c branchname tagname
+dwq
