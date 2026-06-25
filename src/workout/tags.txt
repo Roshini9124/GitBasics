@@ -2,4 +2,9 @@ tags are label/names to a commit
 it is helpful if i want to view or work something with my past commits it would be difficult to navigate to a particular commit without remembering commit it.so tags gives name to commits
 there are 2 types of tags:lightweight and annotated
 lightweight->only tag name
+for current commit:
+git tag verisonname
+for past commit:
+git tag versionname commitid
 annotated->stores tag with metadata
+git tag-->list all tag
