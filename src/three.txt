@@ -1,2 +1,2 @@
-this is file created form remote repo
+this is file created form remote repository
 hi this is from feat 2
